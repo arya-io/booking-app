@@ -70,7 +70,6 @@ booking-app/ │
              ├── main.go # The main entry point for the application 
              ├── helper.go # Contains helper functions for input validation 
              ├── go.mod # Go module file for dependency management 
-             ├── go.sum # Checksums for module dependencies 
              └── README.md # Project documentation (this file)
 ```
 
